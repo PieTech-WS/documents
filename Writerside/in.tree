@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                  name="PowerAtom 规范性文件档案库" start-page="README.md">
+
+    <toc-element topic="README.md"/>
+    <toc-element toc-title="pa_note">
+        <toc-element topic="prvlv2.md"/>
+        <toc-element topic="prvlv1.md"/>
+        <toc-element topic="summary.md"/>
+    </toc-element>
+</instance-profile>
