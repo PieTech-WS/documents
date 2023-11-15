@@ -6,9 +6,4 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="7df12acf">
-        <description>Created after removal of "PowerAtom Foundation 规范性文件档案库" from PowerAtom 规范性文件档案库
-        </description>
-        <accepts>README.html</accepts>
-    </rule>
 </rules>
