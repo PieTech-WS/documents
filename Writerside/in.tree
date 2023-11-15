@@ -3,9 +3,13 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                  name="PowerAtom 规范性文件档案库" start-page="README.md">
+                  name="PowerAtom 规范性文件档案库" start-page="summary.topic">
 
-    <toc-element topic="README.md"/>
+    <toc-element topic="summary.topic"/>
+    <toc-element topic="agreements.topic">
+        <toc-element topic="donors-agreement.topic"/>
+    </toc-element>
+    <toc-element topic="about.topic"/>
     <toc-element toc-title="pa_note">
         <toc-element topic="prvlv2.md"/>
         <toc-element topic="prvlv1.md"/>

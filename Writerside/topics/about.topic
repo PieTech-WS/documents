@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="&#20851;&#20110;" id="about" help-id="关于">
+
+    <chapter title="规范性文件档案库" id="a">
+        <p>
+            <control>(C)2023, PowerAtom Foundation</control>
+        </p>
+        <p>
+            任何人不得修改此档案库内容副本的任何内容,除非在内容中有特殊说明.
+        </p>
+    </chapter>
+</topic>

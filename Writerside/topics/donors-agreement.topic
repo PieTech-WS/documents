@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="&#25424;&#36192;&#32773;&#21327;&#35758;" id="donors-agreement">
+    <title>
+        PowerAtom 捐赠者协议(G)
+    </title>
+    <p>
+        <control><a href="https://www.projcora.club/rules/agreements/donors-agreement.md">Markdown版本</a></control>
+    </p>
+    <p>(C)2023, PowerAtom Foundation</p>
+    <p>任何个人/组织无权更改此协议的副本.</p>
+    <p>版本:20231112-GENERAL</p>
+    <chapter title="前言" id="beginning">
+        <p>
+            感谢您愿意资助此项目的开发！在您捐赠前，请阅读此协议。此协议用于说明您、我们和您所捐赠款项的相关事宜，包括我们如何处理您的捐赠款项。</p>
+    </chapter>
+    <chapter title="我们认可的捐赠渠道" id="ways">
+        <p>我们统一使用&quot;爱发电&quot;平台接受您的捐赠(如有变更,
+            我们将尽可能通知到每一位捐赠者)。如果您是通过微信收款码或支付宝收款码支付的，这不是规范的操作，您的捐赠款可能流入他人手中，请务必向项目管理员询问。</p>
+    </chapter>
+    <chapter title="捐赠款项的用途" id="usage">
+        <p>捐赠款项将用于支付项目开发的
+            <control>成本</control>
+            (包括设施费用, 如服务器/对象存储, 以及人工成本)。如果有，我们会说明设施费用的明细。
+        </p>
+    </chapter>
+    <chapter title="捐赠后处理" id="after">
+        <chapter title="退款">
+            <p>在您捐赠后，我们无法为您办理退款。请在捐赠前认真考虑。</p>
+        </chapter>
+    </chapter>
+    <chapter title="您会获得什么" id="what-will-you-get">
+        <p>
+            我们会单独说明在捐赠后您会获得什么。但可以肯定的是，您会被记录在捐赠者名单上。同时，我们在此感谢您对项目发展做出的贡献。</p>
+    </chapter>
+
+
+</topic>

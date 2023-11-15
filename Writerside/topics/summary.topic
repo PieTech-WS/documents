@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="&#27010;&#35272;" id="summary" help-id="概览">
+
+    <section-starting-page>
+        <title>概览</title>
+        <description>
+            此档案库存储PowerAtom Foundation发布的所有规范性文件。
+        </description>
+
+        <spotlight>
+            <a href="about.topic" summary="关于此文档库" type="community"/>
+            <a href="agreements.topic" summary="协议库" type="file"/>
+        </spotlight>
+
+        <primary>
+            <title>Main group</title>
+            <a href="summary.topic"
+               summary="暂未开放"/>
+        </primary>
+
+        <secondary>
+            <title>Highlighted group</title>
+            <a href="summary.topic"
+               summary="暂未开放"/>
+        </secondary>
+
+        <misc>
+            <cards>
+                <title>Custom cards</title>
+                <a href="summary.topic"
+                   summary="暂未开放"/>
+            </cards>
+
+            <links narrow="true">
+                <group>
+                    <title>Custom links</title>
+                    <a href="summary.topic"
+                       summary="暂未开放"/>
+                </group>
+                ...
+            </links>
+        </misc>
+    </section-starting-page>
+</topic>
