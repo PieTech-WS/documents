@@ -3,9 +3,9 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                  name="PowerAtom 规范性文件档案库" start-page="summary.topic">
+                  name="PowerAtom 规范性文件档案库" start-page="summary_n.topic">
 
-    <toc-element topic="summary.topic"/>
+    <toc-element topic="summary_n.topic"/>
     <toc-element topic="agreements.topic">
         <toc-element topic="donors-agreement.topic"/>
     </toc-element>
