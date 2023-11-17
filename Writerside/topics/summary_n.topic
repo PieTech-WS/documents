@@ -38,10 +38,9 @@
             <links narrow="true">
                 <group>
                     <title>Custom links</title>
-                    <a href="summary_n.topic"
-                       summary="暂未开放"/>
+                    <a href="https://www.projcora.club/rules-raw/"
+                       summary="Markdown Edition">Markdown Edition</a>
                 </group>
-                ...
             </links>
         </misc>
     </section-starting-page>
