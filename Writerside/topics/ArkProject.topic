@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="ArkProject." id="ArkProject">
+    <p><control>PowerAtom Notes</control>;<control>Name</control>:PowerAtom Creative Commons Program;
+        <control>Code</control>:Ark.;<control>Manager</control>:2minRain(yizigezi@outlook.com)<control>Level</control>:Public</p>
+    <chapter title="PowerAtom 知识共享计划" id="tit">
+        <chapter title="概览" id="summary" collapsible="true" default-state="expanded">
+            <p>
+                此项目旨在用开源项目的方式进行知识共享, 帮助有需要的人快速便捷地获取知识或信息.
+            </p>
+        </chapter>
+        <chapter title="项目" id="projects" collapsible="true" default-state="expanded">
+            <p>
+                <control><a href="https://www.projcora.club/OpenWearWiki">OpenWear Wiki</a></control>
+            </p>
+        </chapter>
+    </chapter>
+</topic>
