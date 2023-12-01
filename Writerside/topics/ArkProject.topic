@@ -13,9 +13,13 @@
             </p>
         </chapter>
         <chapter title="项目" id="projects" collapsible="true" default-state="expanded">
-            <p>
-                <control><a href="https://www.projcora.club/OpenWearWiki">OpenWear Wiki</a></control>
-            </p>
+            <deflist>
+                <def title="OpenWear Wiki">
+                    <p>
+                        <control><a href="https://www.projcora.club/OpenWearWiki">访问</a></control>
+                    </p>
+                </def>
+            </deflist>
         </chapter>
     </chapter>
 </topic>
