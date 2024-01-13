@@ -11,7 +11,7 @@
         <control><a href="https://www.projcora.club/rules-raw/agreements/donors-agreement">Markdown版本</a></control>
     </p>
     <p>(C)2023, PowerAtom Foundation</p>
-    <p>任何个人/组织无权更改此协议的副本.</p>
+    <p>任何个人/组织无权更改此协议的副本.(不包括附录)</p>
     <p>版本:20231117-GENERAL</p>
     <chapter title="前言" id="beginning">
         <p>
@@ -33,29 +33,30 @@
             <p>在您捐赠后，我们无法为您办理退款。请在捐赠前认真考虑。</p>
         </chapter>
     </chapter>
-    <chapter title="您会获得什么" id="appendix">
+    <chapter title="您会获得什么" id="receive">
         <p>详见 <a anchor="appendix-2">附录2</a> 。但可以肯定的是，您会被记录在捐赠者名单上。同时，我们在此感谢您对项目发展做出的贡献。
         </p>
     </chapter>
-    <chapter title="附录1" id="appendix-1">
-        <tip>
-            <p>本标题下请明确说明此项目的正规捐赠渠道(不建议使用微信支付/支付宝/PayPal支付).</p>
-            <p>请在每次更改后明确通知捐赠者</p>
-            <p>请在编辑后删除此提示</p>
-        </tip>
+    <chapter title="附录" id="appendix">
+        <chapter title="附录1" id="appendix-1">
+            <tip>
+                <p>本标题下请明确说明此项目的正规捐赠渠道(不建议使用微信支付/支付宝/PayPal支付).</p>
+                <p>请在每次更改后明确通知捐赠者</p>
+                <p>请在编辑后删除此提示</p>
+            </tip>
+        </chapter>
+        <chapter title="附录2" id="appendix-2">
+            <tip>
+                <p>
+                    本标题下请明确说明在捐赠者对项目进行赞助后会获得的内容(如内测资格).并在下一标题中替换[name]的内容(注意去掉括号)
+                </p>
+                <p>
+                    如: 本附录解释权归PowerAtom Foundation所有
+                </p>
+                <p>请在编辑后删除此提示</p>
+            </tip>
+        </chapter>
+        <p>本附录解释权归[name]所有</p>
     </chapter>
-    <chapter title="附录2" id="appendix-2">
-        <tip>
-            <p>
-                本标题下请明确说明在捐赠者对项目进行赞助后会获得的内容(如内测资格).并在下一标题中替换[name]的内容(注意去掉括号)
-            </p>
-            <p>
-                如: 本附录解释权归PowerAtom Foundation所有
-            </p>
-            <p>请在编辑后删除此提示</p>
-        </tip>
-        <chapter title="本附录解释权归[name]所有" id="name"/>
-    </chapter>
-
 
 </topic>

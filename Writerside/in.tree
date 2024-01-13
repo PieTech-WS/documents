@@ -9,6 +9,8 @@
     <toc-element topic="summary_n.topic"/>
     <toc-element topic="agreements.topic">
         <toc-element topic="donors-agreement.topic"/>
+        <toc-element toc-title="PowerAtom知识共享及开源协议(zh-CN原始版本)" href="https://github.com/PieTech-WS/.github/blob/main/PACCOSL.LICENSE.zh"/>
+        <toc-element toc-title="PowerAtom知识共享及开源协议(en-US非正式副本)" href="https://github.com/PieTech-WS/.github/blob/main/PACCOSL.LICENSE.en"/>
     </toc-element>
     <toc-element toc-title="项目">
         <toc-element topic="ArkProject.topic"/>
